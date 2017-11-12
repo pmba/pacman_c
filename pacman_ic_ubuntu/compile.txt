@@ -1,0 +1,1 @@
+gcc -o melhor melhor.c -lallegro -lallegro_font -lallegro_ttf -lallegro_image -lallegro_audio -lallegro_acodec -lm
